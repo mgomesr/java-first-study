@@ -1,4 +1,4 @@
-package edu.matheus.primeiraSemana;
+package study.matheus.firstWeek;
 public class BoletimEstudantil {
     public static void main(String[] args) {
         int mediaFinal = 10;
