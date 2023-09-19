@@ -1,0 +1,56 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Conditionals",
+            "request": "launch",
+            "mainClass": "Conditionals",
+            "projectName": "java-first-project_5ca5db52"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "AboutMe",
+            "request": "launch",
+            "mainClass": "AboutMe",
+            "projectName": "java-first-project_5ca5db52"
+        },
+        {
+            "type": "java",
+            "name": "MyClass",
+            "request": "launch",
+            "mainClass": "MyClass",
+            "projectName": "java-first-project_5ca5db52"
+        },
+        {
+            "type": "java",
+            "name": "FirstClass",
+            "request": "launch",
+            "mainClass": "study.matheus.firstWeek.FirstClass",
+            "projectName": "java-first-project_5ca5db52"
+        },
+        {
+            "type": "java",
+            "name": "OperadorTernario",
+            "request": "launch",
+            "mainClass": "study.matheus.firstWeek.OperadorTernario",
+            "projectName": "java-first-project_5ca5db52"
+        },
+        {
+            "type": "java",
+            "name": "UserSmartTv",
+            "request": "launch",
+            "mainClass": "study.matheus.firstWeek.UserSmartTv",
+            "projectName": "java-first-project_5ca5db52"
+        }
+    ]
+}
