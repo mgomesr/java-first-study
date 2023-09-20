@@ -6,6 +6,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ProcessoSeletivoCondicional",
+            "request": "launch",
+            "mainClass": "Atividade.ProcessoSeletivoCondicional",
+            "projectName": "java-first-project_5ca5db52"
+        },
+        {
+            "type": "java",
+            "name": "ProcessoSeletivo",
+            "request": "launch",
+            "mainClass": "Atividade.ProcessoSeletivo",
+            "projectName": "java-first-project_5ca5db52"
+        },
+        {
+            "type": "java",
+            "name": "Exceptions",
+            "request": "launch",
+            "mainClass": "Exceptions",
+            "projectName": "java-first-project_5ca5db52"
+        },
+        {
+            "type": "java",
+            "name": "DoWhileCommand",
+            "request": "launch",
+            "mainClass": "repetition.DoWhileCommand",
+            "projectName": "java-first-project_5ca5db52"
+        },
+        {
+            "type": "java",
+            "name": "WhileCommand",
+            "request": "launch",
+            "mainClass": "repetition.WhileCommand",
+            "projectName": "java-first-project_5ca5db52"
+        },
+        {
+            "type": "java",
+            "name": "ForCommand",
+            "request": "launch",
+            "mainClass": "repetition.ForCommand",
+            "projectName": "java-first-project_5ca5db52"
+        },
+        {
+            "type": "java",
             "name": "Conditionals",
             "request": "launch",
             "mainClass": "Conditionals",

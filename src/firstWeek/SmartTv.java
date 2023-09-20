@@ -1,4 +1,5 @@
-package study.matheus.firstWeek;
+package firstWeek;
+
 
 public class SmartTv {
     boolean power = true;
